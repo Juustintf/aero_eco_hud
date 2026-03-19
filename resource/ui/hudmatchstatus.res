@@ -201,8 +201,8 @@
 		"xpos"			"cs-0.5"
 		"ypos"			"-2"
 		"zpos"			"1"		
-		"wide"			"300"
-		"tall"			"100"
+		"wide"			"0"
+		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
 	}	
@@ -214,8 +214,8 @@
 		"xpos"				"cs-0.5"
 		"ypos"				"-5"
 		"zpos"				"0"
-		"wide"				"365"
-		"tall"				"28"
+		"wide"				"0"
+		"tall"				"0"
 		"visible"			"0"
 
 		"proportionaltoaparent"	"1"

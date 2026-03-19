@@ -489,6 +489,46 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"TypoRoundReg16"
+		{
+			"1"
+			{
+				"name"		"Typo Round Regular Demo"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"TypoRoundReg32"
+		{
+			"1"
+			{
+				"name"		"Typo Round Regular Demo"
+				"tall"		"32"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"TypoRoundlight8"
+		{
+			"1"
+			{
+				"name"		"Typo Round Light Demo"
+				"tall"		"8"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"TypoRoundlight16"
+		{
+			"1"
+			{
+				"name"		"Typo Round Light Demo"
+				"tall"		"32"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		"Default"
 		{
 			"1"
@@ -5876,6 +5916,16 @@ Scheme
 		{
 			"font" "resource/fonts/Typo_Round_Bold_Demo.otf"
 			"name" "Typo Round Bold Demo"
+		}
+		"19"
+		{
+			"fonts" "resource/fonts/Typo_Round_Light_Demo.otf"
+			"name" "Typo Round Light Demo"
+		}
+		"20"
+		{
+			"fonts" "resource/fonts/Typo_Round_Regular_Demo.otf"
+			"name" "Typo Round Regular Demo"
 		}
 	}
 }
