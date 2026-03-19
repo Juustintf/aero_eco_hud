@@ -501,6 +501,16 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"TypoRoundReg8"
+		{
+			"1"
+			{
+				"name"		"Typo Round Regular Demo"
+				"tall"		"8"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		"TypoRoundReg16"
 		{
 			"1"
