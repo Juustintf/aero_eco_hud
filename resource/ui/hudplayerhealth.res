@@ -86,7 +86,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"TypoRound36"
-		"fgcolor"		"white"
+		"fgcolor"		"Frutigergreen"
 	}
 	"PlayerStatusHealthValueShadow"
 	{
@@ -104,7 +104,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"TypoRound36"
-		"fgcolor"		"black" 
+		"fgcolor"		"Black" 
 		"pin_to_sibling" "PlayerStatusHealthValue"
 	}
 	"PlayerStatusMaxHealthValue"

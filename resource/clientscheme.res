@@ -18,6 +18,16 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
+		// My colors
+
+		"Frutigergreen"		"159 225 29 255"
+
+		"overhealblue"		"17 183 235 255"
+
+		"FrutigerBlue" 		"105 207 255 255"
+
+		"FrutigerDorfic"	"246 134 53 255"
+
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
@@ -44,7 +54,7 @@ Scheme
 		"PartyMember5"	"255 118 108 255"
 		"PartyMember6"	"255 133 255 255"
 		
-		"White"				"235 235 235 255"
+		"White"				"255 255 255 255"
 		"Red"				"192 28 0 140"
 		"RedSolid"			"192 28 0 255"
 		"Blue"				"0 28 162 140"
@@ -55,7 +65,9 @@ Scheme
 		//Changed black to a NTSC safe color
 		"GreenSolid"		 "76 107 34 255"
 		
-		"Black"				"46 43 42 255"
+
+
+		"Black"				"0 0 0 255"
 		"TransparentBlack"	"0 0 0 196"
 		"TransparentLightBlack"	"0 0 0 90"
 		"FooterBGBlack"		"52 48 55 255"

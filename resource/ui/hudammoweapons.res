@@ -131,10 +131,10 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"HudFontGiantBold"
-		"fgcolor"		"TanLight"
+		"font"			"TypoRound36"
+		"fgcolor"		"white"
 		"xpos"			"0"
-		"ypos"			"2"
+		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"84"
 		"wide_lodef"	"83"
@@ -143,7 +143,7 @@
 		"tall_lodef"	"45"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-east"		
+		"textAlignment"	"center"		
 		"labelText"		"%Ammo%"
 		
 	}	
@@ -151,12 +151,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"HudFontGiantBold"
+		"font"			"TypoRound36"
 		"fgcolor"		"Black"
 		"xpos"			"1"
 		"xpos_hidef"	"2"
 		"xpos_lodef"	"2"
-		"ypos"			"3"
+		"ypos"			"1"
 		"ypos_hidef"	"4"
 		"ypos_lodef"	"4"
 		"zpos"			"5"
@@ -167,7 +167,7 @@
 		"tall_lodef"	"45"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-east"		
+		"textAlignment"	"center"		
 		"labelText"		"%Ammo%"
 		
 	}									
