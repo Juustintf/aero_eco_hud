@@ -20,7 +20,7 @@ Scheme
 	{
 		// My colors
 
-		"Frutigergreen"		"159 225 29 255"
+		"FrutigerGreen"		"159 225 29 255"
 
 		"overhealblue"		"17 183 235 255"
 
