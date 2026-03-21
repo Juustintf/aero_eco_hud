@@ -5,8 +5,9 @@
 		"fieldName" "HudPlayerStatus"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"0"
-		"ypos"	"0"
+		"xpos"	"-10"
+		"ypos"	"-40"
+		"zpos"	"3"
 		"wide"	"f0"
 		"tall"	"480"
 	}
@@ -16,10 +17,10 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"cs-0.5+100"	[$WIN32]
+		"xpos"	"cs-0.5+110"	[$WIN32]
 		"proportionaltoparent" "1"
 		"xpos_minmode"	"r85"	[$WIN32]
-		"ypos"	"p0.842"	[$WIN32]
+		"ypos"	"p0.756"	[$WIN32]
 		"ypos_minmode"	"r36"	[$WIN32]
 		"xpos"	"r131"	[$X360]
 		"ypos"	"r77"	[$X360]
@@ -77,13 +78,9 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r138"	[$WIN32]
-		"xpos_minmode"	"r100"	[$WIN32]
-		"ypos"			"r69"	[$WIN32]
-		"ypos_minmode"	"r34"	[$WIN32]
-		"xpos"			"r174"	[$X360]
-		"ypos"			"r90"	[$X360]
-		"wide"			"200"
+		"xpos"			"cs-0.5-2"	[$WIN32]
+		"ypos"			"r100"	[$WIN32]
+		"wide"			"120"
 		"tall"			"100"
 	}
 	
@@ -93,14 +90,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"cs-0.5-2"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos"			"r55"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
-		"xpos"			"r112"	[$X360]
-		"ypos"			"r45"	[$X360]
+		"ypos"			"r100"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"120"
-		"wide_minmode"	"50"
 		"tall"			"16"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
@@ -1056,7 +1048,7 @@
 		"enabled"		"1"
 		"xpos"			"cs-0.5+120"	[$WIN32]
 		"xpos_minmode"	"r110"	[$WIN32]
-		"ypos"			"r52"	[$WIN32]
+		"ypos"			"r92"	[$WIN32]
 		"ypos_minmode"	"r30"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
